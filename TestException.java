@@ -9,6 +9,7 @@ public class TestException {
         {
          result= name1.concat("Priti");
         System.out.println("string is \n"); 
+        System.out.println("Result is \n"+result); 
         
         }catch(Exception e) 
         {
